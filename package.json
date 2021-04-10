@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gmdr1024/common_docs/issues"
   },
-  "homepage": "https://github.com/gmdr1024/common_docs#readme"
+  "homepage": "https://github.com/gmdr1024/common_docs#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
