@@ -1,0 +1,19 @@
+{
+  "name": "common_docs",
+  "version": "1.0.0",
+  "description": "Common docs in software development",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmdr1024/common_docs.git"
+  },
+  "author": "gmdr1024 (https://github.com/gmdr1024)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gmdr1024/common_docs/issues"
+  },
+  "homepage": "https://github.com/gmdr1024/common_docs#readme"
+}
