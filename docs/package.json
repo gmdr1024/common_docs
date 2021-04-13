@@ -18,6 +18,7 @@
   },
   "homepage": "https://example.com/user_name/repository_name#readme",
   "devDependencies": {
+    "gitbook-plugin-mermaid-newface": "^4.0.2",
     "honkit": "^3.6.19"
   }
 }
