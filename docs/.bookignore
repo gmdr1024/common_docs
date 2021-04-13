@@ -1,0 +1,5 @@
+.bookignore
+.gitignore
+.node-version
+package-lock.json
+package.json
