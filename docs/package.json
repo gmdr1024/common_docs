@@ -1,0 +1,25 @@
+{
+  "name": "foo",
+  "version": "0.0.1",
+  "description": "foo",
+  "scripts": {
+    "build": "gitbook build",
+    "init": "gitbook init",
+    "install": "gitbook fetch 3.2.3",
+    "start": "gitbook serve",
+    "uninstall": "gitbook uninstall 3.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://example.com/user_name/repository_name.git"
+  },
+  "author": "user_name (https://example.com/user_name)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://example.com/user_name/repository_name/issues"
+  },
+  "homepage": "https://example.com/user_name/repository_name#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
