@@ -5,6 +5,7 @@
   "scripts": {
     "build": "honkit build",
     "init": "honkit init",
+    "pdf": "honkit pdf ./ ./docs.pdf",
     "start": "honkit serve"
   },
   "repository": {
