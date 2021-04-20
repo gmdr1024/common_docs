@@ -1,4 +1,4 @@
-# honkit_dev
+# honkit-dev
 Honkit dev
 
 ## Description
@@ -20,7 +20,7 @@ Node.js 14.16.x
 
 
 ## Install
-1. Download [code](https://github.com/gmdr1024/honkit_dev/archive/main.zip)
+1. Download [code](https://github.com/gmdr1024/honkit-dev/archive/main.zip)
 2. `npm i` under `docs`
 
 ## Usage
@@ -43,4 +43,4 @@ Node.js 14.16.x
 [gmdr1024](https://github.com/gmdr1024)
 
 ## License
-[CC0](https://github.com/gmdr1024/honkit_dev/blob/main/LICENSE) 
+[CC0](https://github.com/gmdr1024/honkit-dev/blob/main/LICENSE) 
