@@ -1,23 +1,13 @@
 {
   "name": "foo",
   "version": "0.0.1",
-  "description": "foo",
+  "private": true,
   "scripts": {
     "build": "honkit build",
     "init": "honkit init",
     "pdf": "honkit pdf ./ ./docs.pdf",
     "start": "honkit serve"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://example.com/user_name/repository_name.git"
-  },
-  "author": "user_name (https://example.com/user_name)",
-  "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://example.com/user_name/repository_name/issues"
-  },
-  "homepage": "https://example.com/user_name/repository_name#readme",
   "devDependencies": {
     "gitbook-plugin-mermaid-newface": "^4.0.2",
     "honkit": "^3.6.19"
