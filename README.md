@@ -39,6 +39,9 @@ Node.js 14.16.x
 ### Generate PDF file
 - `npm pdf` 
 
+## Re-use
+- Copy code in `docs`
+
 ## Author
 [gmdr1024](https://github.com/gmdr1024)
 
